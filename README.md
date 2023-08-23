@@ -9,7 +9,7 @@ I am a passionate data enthusiast with a background in informatics engineering.
 
 ## 🔍 You Can Find Me at
 <p>
-  <a href="https://github.com/rickyleonardos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/ricky-leonardo-silaban/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://public.tableau.com/app/profile/ricky.leonardo.silaban" target="_blank"><img alt="Tableau Public" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>  
 </p>
 
