@@ -1,4 +1,4 @@
-### Hi there 👋
+#  Hi there, I'm Ricky Leonardo Silaban <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 <!--
 **rickyleonardos/rickyleonardos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
